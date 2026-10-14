@@ -1,0 +1,6 @@
+{
+  "name": "Violet Muse Beauty Atelier",
+  "description": "Haute-couture cosmetic retail engineered for effortless discovery and seamless conversational WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
